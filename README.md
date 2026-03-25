@@ -1,6 +1,23 @@
-# MACT (Mirrored Active Collaborative Tunnel)
+<div align="center">
 
-A collaborative development platform that provides a single, persistent public URL for project "rooms" that live-mirrors the localhost of the developer with the latest Git commit.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=MACT+-+Mirrored+Active+Collaborative+Tunnel;Persistent+Live+Project+Sharing;Git-Synced+Collaborative+Development;Live+Localhost+Mirroring+Platform" alt="Typing SVG" />
+
+<br/>
+
+![Node.js](https://img.shields.io/badge/Node.js-20-green?style=for-the-badge&logo=node.js&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-Real--Time-blue?style=for-the-badge&logo=socket.io&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Commit--Synced-orange?style=for-the-badge&logo=git&logoColor=white)
+![Tunnel](https://img.shields.io/badge/Tunneling-Secure-purple?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Collaboration](https://img.shields.io/badge/Collaboration-Live-red?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
+<br/>
+
+> **MACT (Mirrored Active Collaborative Tunnel) is a collaborative development platform that provides a persistent public URL for project rooms, live-mirroring a developer’s localhost while automatically syncing the latest Git commits — enabling seamless real-time collaboration.**
+
+</div>
+
+---
 
 ## 🚀 Quick Start
 
